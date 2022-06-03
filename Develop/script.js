@@ -110,7 +110,6 @@ function generatePassword() {
     randomPasswordGenerated += minLowerCases;
     randomPasswordGenerated += minUpperCases;
     randomPasswordGenerated += minSpecialCharacters;
-    debugger;
   }
 
   return randomPasswordGenerated
