@@ -11,7 +11,7 @@ Next iteration:
 
 ## Website
 
-![Site Screenshot](/assets/images/image6.png)
+![Site Screenshot](/Develop/2022-06-05%2012_45_12-Password%20Generator.png)
 
 [Randon Password Generator]([https://mfactory88.github.io/web-portfolio/](https://mfactory88.github.io/random-pw-generator/Develop/))
 
